@@ -1,0 +1,72 @@
+#header-nav {
+  background-color: gray;
+  text-align: right;
+  border-radius: 0;
+  border: 3px solid;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand {
+  padding-top: 30px;
+}
+.navbar-brand h1 {   
+  color: black;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a{
+  color: black;
+  background-color: white;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: black;
+  color: white;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: black;
+}
+.navbar-default .navbar-toggle:hover .icon-bar,
+.navbar-default .navbar-toggle:focus .icon-bar {
+  background-color: white;
+}
+.navbar-default .navbar-toggle .icon-bar,
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
+  color: black;
+}
+.container
+{
+	background-color: gray;
+}
+
+.container .row p
+{
+	font-style: italic;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	color: white;
+}
+.container h2
+{
+	text-align: center;
+	font-weight: bold;
+	color:black;
+}
+.container .row h3
+{
+	text-align: center;
+	font-weight: bold;
+	color:  black;
+}
